@@ -84,7 +84,7 @@ export DB_PASSWORD=your-strong-password
 應用程式啟動後，服務位址為：
 
 ```text
-http://localhost:8080
+http://localhost:8081
 ```
 
 ## API Endpoints
